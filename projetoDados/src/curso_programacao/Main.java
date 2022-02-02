@@ -27,7 +27,7 @@ public class Main {
 		System.out.printf("RESULTADO = %.2f metros%n", x);
 		System.out.printf("%s tem %d anos e ganha R$ %.2f reais %n", nome, idade, renda );
 			// varios elementos concatenados em um mesmo comando de escrita.
-	
+	//Java
 	
 	}	
 	
